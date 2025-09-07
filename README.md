@@ -1,4 +1,11 @@
 # Spotify Enhancement
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/73ab60bf-72d1-489b-b4fa-de59cd125034" width="250" />
+  <img src="https://github.com/user-attachments/assets/394d5df9-89d1-4a5f-9d33-042a0be634fa" width="250" />
+  <img src="https://github.com/user-attachments/assets/a2c47cf5-0a5b-4c9d-8f7d-987ed7fe36b1" width="250" />
+  <img src="https://github.com/user-attachments/assets/b0f232dd-4172-4e81-9b0f-aff7c08687a3" width="250" />
+</p>
+
 
 A comprehensive Flutter application that recreates and enhances the Spotify user interface with deep functionality and modular architecture.
 
